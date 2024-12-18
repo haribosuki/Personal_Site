@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+header {
+    background-color: #634040;
+}
+header .header_font {
+    font-size: 40px;
+    color: #ffffff;
+}
